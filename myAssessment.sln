@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj", "{BA929F87-5324-4588-BE89-E8D7E0C2A1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMoney", "TestMoney\TestMoney.csproj", "{5B80334E-168F-4908-891F-C17FC497584F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA929F87-5324-4588-BE89-E8D7E0C2A1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA929F87-5324-4588-BE89-E8D7E0C2A1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA929F87-5324-4588-BE89-E8D7E0C2A1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA929F87-5324-4588-BE89-E8D7E0C2A1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B80334E-168F-4908-891F-C17FC497584F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B80334E-168F-4908-891F-C17FC497584F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B80334E-168F-4908-891F-C17FC497584F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B80334E-168F-4908-891F-C17FC497584F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19F9E87-7AF7-480E-844C-14C526E5A4B6}
+	EndGlobalSection
+EndGlobal
